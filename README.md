@@ -1,5 +1,7 @@
 # Image_Classifier
 
+**Model:**  https://drive.google.com/file/d/1qvcSnESFsPEcx19ZUqpD8BViJBczL3Yg/view?usp=sharing
+
 **Objectives:**
 
 **Utilize VGG16 for Feature Extraction:**
